@@ -2,13 +2,22 @@
 
 ## Installation
 
+### Dependencies
+
 ### For Back :
 
-`npm install`
+#### Install npm
 
+```
+npm install
+npm run build
+```
+
+### Start server
 `npm start`
 
-http://localhost:4000/api
+## Application 
+URL : http://localhost:4000/api
 
 ### For Front :
 
@@ -19,3 +28,13 @@ http://localhost:4000/api
 `ember s`
 
 http://localhost:4200/home
+
+
+
+## Docs
+
+### Docker
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac/)
+* [Docker for Windows](https://docs.docker.com/docker-for-windows/)
+* [Docker for Linux](https://docs.docker.com/engine/installation/linux/)
