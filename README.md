@@ -29,7 +29,7 @@ ember s
 
 ## Application
 
-URL server : http://localhost:4000/api
+URL server : <http://localhost:4000/api>
 
 URL front : http://localhost:4200/home
 
