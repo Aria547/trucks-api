@@ -14,24 +14,27 @@ npm install
 npm run build
 ```
 
-#### Start server
+### Start server
 `npm start`
 
 
-#### Application 
+## Application 
 URL : http://localhost:4000/api
 
 ### For Front :
 
-```
-cd front
-npm install
-ember s
-```
+`cd front`
+
+`npm install`
+
+`ember s`
 
 URL : http://localhost:4200/home
 
-
+## Avencement actuel :
+* Realization and continuation of the front of the application
+* Integration of mongodb with the server with Docker
+* Continuation for the back-end
 
 ## Docs
 
@@ -40,3 +43,6 @@ URL : http://localhost:4200/home
 * [Docker for Mac](https://docs.docker.com/docker-for-mac/)
 * [Docker for Windows](https://docs.docker.com/docker-for-windows/)
 * [Docker for Linux](https://docs.docker.com/engine/installation/linux/)
+
+
+
