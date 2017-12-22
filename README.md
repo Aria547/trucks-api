@@ -1,6 +1,5 @@
 # trucks-api-master
 
-#Edouard ZHOU
 ## Installation
 
 ### Dependencies
