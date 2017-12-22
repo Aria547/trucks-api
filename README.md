@@ -33,7 +33,7 @@ URL : http://localhost:4200/home
 
 ## Current progress
 * Realization and continuation of the front of the application
-* Integration of mongodb with the server with Docker
+* Integration of mongodb with the server with Docker (comming)
 * Continuation for the back-end
 
 ## Docs
