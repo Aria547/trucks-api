@@ -29,7 +29,7 @@ URL : http://localhost:4000/api
 
 `ember s`
 
-http://localhost:4200/home
+URL : http://localhost:4200/home
 
 
 
