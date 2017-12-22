@@ -4,15 +4,18 @@
 
 ### For Back :
 
-npm install \n
+npm install
+
 npm start
 
 http://localhost:4000/api
 
 ### For Front :
 
-cd front\n
-npm install\n
+cd front
+
+npm install
+
 ember s
 
 http://localhost:4200/home
