@@ -29,9 +29,9 @@ npm run build
 
 ## Application
 
-URL : http://localhost:4000/api
+URL server : http://localhost:4000/api
 
-URL : http://localhost:4200/home
+URL front : http://localhost:4200/home
 
 ## Current progress
 * Realization and continuation of the front of the application
