@@ -1,21 +1,21 @@
 # trucks-api-master
 
-## Installer
+## Installation
 
 ### For Back :
 
-npm install
+`npm install`
 
-npm start
+`npm start`
 
 http://localhost:4000/api
 
 ### For Front :
 
-cd front
+`cd front`
 
-npm install
+`npm install`
 
-ember s
+`ember s`
 
 http://localhost:4200/home
