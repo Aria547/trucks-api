@@ -2780,5 +2780,13 @@ td,th,tr{
   vertical-align:middle;
   text-align: center;
 }
-
+.button
+{
+  background: #97D5E0;
+  border-radius:3px;
+  border-width: 0;
+  padding:0 21px;
+  margin:0 auto;
+  height:24px;
+}
 
