@@ -1,17 +1,89 @@
 <div id="art-main">
   <div class="art-sheet clearfix">
-    <div class="art-layout-wrapper">
-      <div class="art-content-layout">
-        <div class="art-content-layout-row">
-          <div class="art-layout-cell art-content">
-             <article class="art-post art-article">
+    <form>
+    <table>
+      <tr style="background:#97D5E0;">
+        <th>Truck</th>
+        <th>Departure</th>
+        <th>Destination 1</th>
+        <th>Destination 2</th>
+        <th>Arrival</th>
+      </tr>
+      <tr>
+        <td><img src="/assets/camion_vert.png" width="200" height="100" /></td>
+        <td>Strasbourg</td>
+        <td><select name="destination1_vert">
+          <option  disabled selected>Select the destination:</option>
+          <option>Bordeaux</option>
+          <option>Marseille</option>
+          <option>Paris</option>
+        </select>
+        </td>
+        <td><select name="destination2_vert">
+          <option  disabled selected>Select the destination:</option>
+          <option>Bordeaux</option>
+          <option>Marseille</option>
+          <option>Paris</option>
+        </select></td>
+        <td><select name="arrival_vert">
+          <option  disabled selected>Select the destination:</option>
+          <option>Bordeaux</option>
+          <option>Marseille</option>
+          <option>Paris</option>
+        </select></td>
+      </tr>
+      <tr>
+        <td><img src="/assets/camion_rouge.png" width="200" height="100" /></td>
+        <td>Toulouse</td>
+        <td><select name="destination1_rouge">
+          <option  disabled selected>Select the destination:</option>
+          <option>Brest</option>
+          <option>Lille</option>
+          <option>Lyon</option>
+        </select>
+        </td>
+        <td><select name="destination2_rouge">
+          <option  disabled selected>Select the destination:</option>
+          <option>Brest</option>
+          <option>Lille</option>
+          <option>Lyon</option>
+        </select></td>
+        <td><select name="arrival_rouge">
+          <option  disabled selected>Select the destination:</option>
+          <option>Brest</option>
+          <option>Lille</option>
+          <option>Lyon</option>
+        </select></td>
+      </tr>
+      <tr >
+        <td><img src="/assets/camion_bleu.png" width="200" height="100" /></td>
+        <td>Paris</td>
+        <td><select name="destination1_bleu">
+          <option  disabled selected>Select the destination:</option>
+          <option>Clermont-Ferrand</option>
+          <option>Bordeaux</option>
+          <option>Strasbourg</option>
+        </select></td>
+        <td><select name="destination2_bleu">
+          <option  disabled selected>Select the destination:</option>
+          <option>Clermont-Ferrand</option>
+          <option>Bordeaux</option>
+          <option>Strasbourg</option>
+        </select></td>
+        <td><select name="arrival_bleu">
+          <option  disabled selected>Select the destination:</option>
+          <option>Clermont-Ferrand</option>
+          <option>Bordeaux</option>
+          <option>Strasbourg</option>
+        </select></td>
+      </tr>
+    </table>
 
-                      <img style="width:80%; height:500px; margin:10%;" src="/assets/carte_france_routiere.png">
-                
-             </article></div>
-        </div>
-      </div>
-    </div>
+      <input class="button" style="margin-left: 40%" type="submit" value="Validate">
+      <input class="button" style="margin-left: 10%" type="reset" value="Eraser">
+    </form>
+    <img style="width:80%; height:500px; margin:10%;" src="/assets/carte_france_routiere.png">
+
   </div>
 </div>
 {{outlet}}
