@@ -1,5 +1,6 @@
 # trucks-api-master
 
+
 ## Installation
 
 ### Dependencies
@@ -15,6 +16,7 @@ npm run build
 
 ### Start server
 `npm start`
+
 
 ## Application 
 URL : http://localhost:4000/api
