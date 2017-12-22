@@ -20,11 +20,11 @@ npm run build
 
 ### For Front :
 
-`cd front`
-
-`npm install`
-
-`ember s`
+```
+cd front
+npm install
+ember s
+```
 
 
 ## Application
