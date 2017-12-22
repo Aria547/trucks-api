@@ -14,20 +14,20 @@ npm install
 npm run build
 ```
 
-### Start server
+#### Start server
 `npm start`
 
 
-## Application 
+#### Application 
 URL : http://localhost:4000/api
 
 ### For Front :
 
-`cd front`
-
-`npm install`
-
-`ember s`
+```
+cd front
+npm install
+ember s
+```
 
 URL : http://localhost:4200/home
 
