@@ -31,7 +31,7 @@ URL : http://localhost:4000/api
 
 URL : http://localhost:4200/home
 
-## Avencement actuel :
+## Current progress
 * Realization and continuation of the front of the application
 * Integration of mongodb with the server with Docker
 * Continuation for the back-end
