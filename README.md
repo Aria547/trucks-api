@@ -15,7 +15,9 @@ npm run build
 ```
 
 #### Start server
-```npm start```
+```
+npm start
+```
 
 
 ### For Front :
