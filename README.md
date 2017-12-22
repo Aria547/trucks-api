@@ -18,9 +18,6 @@ npm run build
 `npm start`
 
 
-## Application 
-URL : http://localhost:4000/api
-
 ### For Front :
 
 `cd front`
@@ -28,6 +25,11 @@ URL : http://localhost:4000/api
 `npm install`
 
 `ember s`
+
+
+## Application
+
+URL : http://localhost:4000/api
 
 URL : http://localhost:4200/home
 
